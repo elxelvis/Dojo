@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "c0b6",
+      "title": "Crawford",
+      "body": "Boxing",
+      "author": "Elisha"
+    },
+    {
+      "id": "0a18",
+      "title": "Terence",
+      "body": "upper cut",
+      "author": "mario"
+    },
+    {
+      "id": "907d",
+      "title": "ghfh",
+      "body": "vsfbsf",
+      "author": "mario"
+    }
+  ]
+}
